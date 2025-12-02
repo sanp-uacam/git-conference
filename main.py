@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Mi primer Request - 69246 - Gongora
 """
 CALCULADORA MODULAR - Taller de Git
 Interfaz por consola con funciones separadas en módulos
