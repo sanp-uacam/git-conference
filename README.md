@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora en Python v1.0
 
 ```bash
 calculadora-git/
