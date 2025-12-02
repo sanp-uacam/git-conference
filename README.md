@@ -1,5 +1,7 @@
 # Calculadora en Python v1.0
 
+# PULL REQUEST FROM REPO FORK - JoseCastillo837p - 75465
+
 ```bash
 calculadora-git/
 ├── main.py           # Interfaz principal
